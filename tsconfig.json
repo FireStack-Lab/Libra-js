@@ -1,0 +1,7 @@
+{
+  "files": [],
+  "references": [
+    { "path": "packages/libra-core" },
+    { "path": "packages/libra-crypto" }
+  ]
+}
